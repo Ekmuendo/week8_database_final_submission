@@ -31,4 +31,7 @@ To get started with the database:
    CREATE DATABASE clinic_booking_system;
    ## 🔎 **Entity-Relationship Diagram (ERD)**
 ![ERD Diagram](clinic_booking_system_erd.png)
+## 📂 Database File
+You can download the database SQL file here: [clinic_booking_system_backup.sql](./clinic_booking_system_backup.sql).
+
 
