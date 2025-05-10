@@ -29,3 +29,6 @@ To get started with the database:
 2. Run the following command to create the database:
    ```sql
    CREATE DATABASE clinic_booking_system;
+   ## 🔎 **Entity-Relationship Diagram (ERD)**
+![ERD Diagram](clinic_booking_system_erd.png)
+
